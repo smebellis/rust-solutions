@@ -1,0 +1,12 @@
+/home/smebellis/rust-solutions/echor/target/debug/deps/float_cmp-44a08c8a0d875142.rmeta: /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/lib.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/macros.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps_eq.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/eq.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ratio.rs
+
+/home/smebellis/rust-solutions/echor/target/debug/deps/libfloat_cmp-44a08c8a0d875142.rlib: /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/lib.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/macros.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps_eq.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/eq.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ratio.rs
+
+/home/smebellis/rust-solutions/echor/target/debug/deps/float_cmp-44a08c8a0d875142.d: /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/lib.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/macros.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps_eq.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/eq.rs /home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ratio.rs
+
+/home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/lib.rs:
+/home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/macros.rs:
+/home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps.rs:
+/home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ulps_eq.rs:
+/home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/eq.rs:
+/home/smebellis/.cargo/registry/src/github.com-1ecc6299db9ec823/float-cmp-0.9.0/src/ratio.rs:
